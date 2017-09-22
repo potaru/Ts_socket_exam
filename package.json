@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/potaru/Ts_socket_exam/issues"
   },
-  "homepage": "https://github.com/potaru/Ts_socket_exam#readme"
+  "homepage": "https://github.com/potaru/Ts_socket_exam#readme",
+  "dependencies": {
+    "socket.io": "^2.0.3"
+  }
 }

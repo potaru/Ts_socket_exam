@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/potaru/Ts_socket_exam#readme",
   "dependencies": {
-    "socket.io": "^2.0.3"
+    "@types/node": "^8.0.29",
+    "express": "^4.15.4",
+    "socket.io": "^2.0.3",
+    "socket.io-client": "^2.0.3"
   }
 }
